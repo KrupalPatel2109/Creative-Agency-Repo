@@ -1,0 +1,605 @@
+@media (max-width: 1024px) {
+  .home {
+    height: auto;
+    padding-bottom: 50px;
+  }
+
+  .navbar {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  .nav-texts {
+    gap: 15px;
+  }
+
+  .main-logo {
+    width: 200px;
+    height: 63px;
+  }
+
+  .contact {
+    display: none;
+  }
+
+  .home-container-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .elements {
+    order: 2;
+  }
+
+  .container-texts {
+    order: 1;
+  }
+
+  .girl-image {
+    order: 3;
+  }
+
+  .creative-text {
+    font-size: 3rem;
+  }
+
+  .other-elements {
+    margin-top: 50px;
+  }
+
+  .project-texts {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .random-element {
+    margin-top: 50px;
+  }
+
+  .ran-box {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .cards-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .card-1, .card-2, .card-3 {
+    max-width: 100%;
+  }
+
+  .head-text {
+    font-size: 2rem;
+  }
+
+  /* Home-3 */
+  .home-3 .home-3-inner {
+    margin: 0 20px;
+    padding: 50px 0;
+  }
+
+  .home-3 .main-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-3 .container-1 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-3 .group-1, .home-3 .group-2 {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .home-3 .creativity-text {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+
+  .home-3 .small-text-1 {
+    font-size: 0.9rem;
+  }
+
+  .home-3 .container-2, .home-3 .container-3 {
+    text-align: center;
+  }
+
+  .home-3 .girl-2-img, .home-3 .img4-img {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .home-3 .black-banner {
+    padding: 20px;
+  }
+
+  .home-3 .partner-imgs-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .home-3 .partner-img-1, .home-3 .partner-img-2, .home-3 .partner-img-3, .home-3 .partner-img-4, .home-3 .partner-img-5, .home-3 .partner-img-6, .home-3 .partner-img-7, .home-3 .partner-img-8 {
+    width: 100px;
+    height: auto;
+  }
+
+  /* Home-4 */
+  .home-4 {
+    height: auto;
+  }
+
+  .home-4 .home-4-inner {
+    margin: 0 20px;
+    padding: 50px 0;
+    gap: 30px;
+  }
+
+  .home-4 .home-4-container {
+    line-height: 50px;
+  }
+
+  .home-4 .blue-text, .home-4 .innovators-text, .home-4 .committed-text, .home-4 .each-text, .home-4 .unique-text, .home-4 .identity-text, .home-4 .ourselves-text, .home-4 .vision-text, .home-4 .blending-text, .home-4 .creative-text-rotate, .home-4 .to-text, .home-4 .built-text, .home-4 .thrive-text, .home-4 .hearts-text, .home-4 .audiences-text {
+    font-size: 40px;
+  }
+
+  .home-4 .clip1, .home-4 .clip2 {
+    width: 120px;
+    height: 40px;
+  }
+
+  .home-4 .last-line-group {
+    gap: 15px;
+  }
+
+  .home-4 .last-line-star-icon {
+    width: 25px;
+    height: 25px;
+  }
+
+  .home-4 .aurelia-txet {
+    font-size: 16px;
+  }
+
+  /* Home-5 */
+  .home-5 {
+    height: auto;
+  }
+
+  .home-5 .home-5-inner {
+    margin: 0 20px;
+    padding: 50px 0;
+  }
+
+  .home-5 .home-5-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-5 .main-container-s-1 .transforming-text, .home-5 .main-container-s-1 .memorable-text {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .home-5 .main-container-s-2 .ran-text-2 {
+    width: 100%;
+  }
+
+  .home-5 .ad-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-5 .s-1, .home-5 .s-2, .home-5 .s-3, .home-5 .s-4, .home-5 .s-5, .home-5 .s-6 {
+    width: 100%;
+  }
+
+  .home-5 .s-2, .home-5 .s-4, .home-5 .s-6 {
+    position: static;
+  }
+
+  .home-5 .stellar-text, .home-5 .stellar-text-2, .home-5 .stellar-text-3, .home-5 .stellar-text-4, .home-5 .stellar-text-6 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .home-5 .speaks-text {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .home-5 .startups-text {
+    width: 100%;
+    position: static;
+    margin: 10px 0;
+  }
+
+  .home-5 .s-5-content-2 {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  /* Home-6 */
+  .home-6 .home-6-inner {
+    margin: 0 20px;
+    padding: 50px 0;
+  }
+
+  .home-6 .home-6-container .home-6-elements-1 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-6 .execllence-text, .home-6 .in-text {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .home-6 .ran-text-3 {
+    width: 100%;
+  }
+
+  .home-6 .home-6-elements-2 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .home-6 .awards-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .home-6 .award-1, .home-6 .award-2, .home-6 .award-3, .home-6 .award-4, .home-6 .award-5, .home-6 .award-6 {
+    width: 45%;
+    margin: 10px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .nav-texts {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .main-logo {
+    width: 150px;
+    height: 47px;
+  }
+
+  .home {
+    height: auto;
+    padding: 20px 0;
+  }
+
+  .home-container {
+    padding: 20px;
+  }
+
+  .creative-text {
+    font-size: 2rem;
+  }
+
+  .creative-text-2 {
+    font-size: 2rem;
+  }
+
+  .girl-img {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .other-elements {
+    margin-top: 30px;
+  }
+
+  .project-texts {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .t-1, .t-2, .t-3 {
+    font-size: 2rem;
+  }
+
+  .happy, .project, .media {
+    font-size: 1rem;
+  }
+
+  .random-element {
+    margin-top: 30px;
+  }
+
+  .ran-text {
+    font-size: 0.9rem;
+  }
+
+  .ran-button {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+
+  .main-banner {
+    padding: 20px 0;
+  }
+
+  .marquee-div {
+    font-size: 0.8rem;
+  }
+
+  .home-2 {
+    padding: 20px;
+  }
+
+  .head-text {
+    font-size: 1.5rem;
+  }
+
+  .services-btn {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+
+  .cards-container {
+    gap: 20px;
+  }
+
+  .card-1, .card-2, .card-3 {
+    flex-direction: column;
+  }
+
+  .box-img-1, .box-img-2, .box-img-3 {
+    width: 100%;
+    height: auto;
+  }
+
+  .head-text-1, .head-text-3 {
+    font-size: 1.2rem;
+  }
+
+  .ran-card-text, .ran-card-text-2, .ran-card-text-3 {
+    font-size: 0.9rem;
+  }
+
+  /* Home-3 */
+  .home-3 .home-3-inner {
+    margin: 0 10px;
+    padding: 30px 0;
+  }
+
+  .home-3 .creativity-text {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+
+  .home-3 .small-text-1, .home-3 .small-text-2 {
+    font-size: 0.8rem;
+  }
+
+  .home-3 .girl-2-img, .home-3 .img4-img {
+    max-width: 300px;
+  }
+
+  .home-3 .partner-imgs-container {
+    gap: 15px;
+  }
+
+  .home-3 .partner-img-1, .home-3 .partner-img-2, .home-3 .partner-img-3, .home-3 .partner-img-4, .home-3 .partner-img-5, .home-3 .partner-img-6, .home-3 .partner-img-7, .home-3 .partner-img-8 {
+    width: 80px;
+  }
+
+  /* Home-4 */
+  .home-4 .home-4-inner {
+    margin: 0 10px;
+    padding: 30px 0;
+    gap: 20px;
+  }
+
+  .home-4 .home-4-container {
+    line-height: 40px;
+  }
+
+  .home-4 .blue-text, .home-4 .innovators-text, .home-4 .committed-text, .home-4 .each-text, .home-4 .unique-text, .home-4 .identity-text, .home-4 .ourselves-text, .home-4 .vision-text, .home-4 .blending-text, .home-4 .creative-text-rotate, .home-4 .to-text, .home-4 .built-text, .home-4 .thrive-text, .home-4 .hearts-text, .home-4 .audiences-text {
+    font-size: 30px;
+  }
+
+  .home-4 .line-group-1, .home-4 .line-group-2, .home-4 .line-group-3, .home-4 .line-group-4, .home-4 .line-group-5, .home-4 .line-group-6 {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .home-4 .clip1, .home-4 .clip2 {
+    width: 100px;
+    height: 30px;
+  }
+
+  .home-4 .last-line-group {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .home-4 .aurelia-txet {
+    font-size: 14px;
+  }
+
+  /* Home-5 */
+  .home-5 .home-5-inner {
+    margin: 0 10px;
+    padding: 30px 0;
+  }
+
+  .home-5 .main-container-s-1 .transforming-text, .home-5 .main-container-s-1 .memorable-text {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .home-5 .stellar-text, .home-5 .stellar-text-2, .home-5 .stellar-text-3, .home-5 .stellar-text-4, .home-5 .stellar-text-6 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .home-5 .speaks-text {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .home-5 .s-5 {
+    padding: 20px;
+  }
+
+  .home-5 .s-5-content-1 {
+    align-items: flex-start;
+  }
+
+  .home-5 .speaks-text {
+    text-align: left;
+  }
+
+  /* Home-6 */
+  .home-6 .home-6-inner {
+    margin: 0 10px;
+    padding: 30px 0;
+  }
+
+  .home-6 .execllence-text, .home-6 .in-text {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .home-6 .award-1, .home-6 .award-2, .home-6 .award-3, .home-6 .award-4, .home-6 .award-5, .home-6 .award-6 {
+    width: 100%;
+  }
+
+  /* Footer */
+  .footer .footer-inner {
+    padding: 20px;
+  }
+
+  .footer .footer-container {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .footer .pages, .footer .connect, .footer .contact-group {
+    align-items: center;
+  }
+
+  .rollar-anime {
+    display: none;
+  }
+
+  .last-footer {
+    padding: 10px;
+  }
+
+  .last-footer .footer-last-contant {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .creative-text {
+    font-size: 1.5rem;
+  }
+
+  .creative-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .t-1, .t-2, .t-3 {
+    font-size: 1.5rem;
+  }
+
+  .happy, .project, .media {
+    font-size: 0.8rem;
+  }
+
+  .ran-button {
+    padding: 8px 16px;
+    font-size: 0.8rem;
+  }
+
+  .marquee-div p {
+    font-size: 0.7rem;
+  }
+
+  .head-text {
+    font-size: 1.2rem;
+  }
+
+  .services-btn {
+    padding: 8px 16px;
+    font-size: 0.8rem;
+  }
+
+  .head-text-1, .head-text-3 {
+    font-size: 1rem;
+  }
+
+  .ran-card-text, .ran-card-text-2, .ran-card-text-3 {
+    font-size: 0.8rem;
+  }
+
+  /* Home-3 */
+  .home-3 .creativity-text {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .home-3 .girl-2-img, .home-3 .img4-img {
+    max-width: 250px;
+  }
+
+  /* Home-4 */
+  .home-4 .blue-text, .home-4 .innovators-text, .home-4 .committed-text, .home-4 .each-text, .home-4 .unique-text, .home-4 .identity-text, .home-4 .ourselves-text, .home-4 .vision-text, .home-4 .blending-text, .home-4 .creative-text-rotate, .home-4 .to-text, .home-4 .built-text, .home-4 .thrive-text, .home-4 .hearts-text, .home-4 .audiences-text {
+    font-size: 24px;
+  }
+
+  .home-4 .clip1, .home-4 .clip2 {
+    width: 80px;
+    height: 25px;
+  }
+
+  /* Home-5 */
+  .home-5 .main-container-s-1 .transforming-text, .home-5 .main-container-s-1 .memorable-text {
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .home-5 .stellar-text, .home-5 .stellar-text-2, .home-5 .stellar-text-3, .home-5 .stellar-text-4, .home-5 .stellar-text-6 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .home-5 .speaks-text {
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  /* Home-6 */
+  .home-6 .execllence-text, .home-6 .in-text {
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .main-banner {
+    display: none;
+  }
+}
